@@ -3,6 +3,7 @@
 ### Know the Python libraries and frameworks along with their purposes:
 
 **1. Django:** Django is a powerful web framework that follows the model-view-controller (MVC) architectural pattern. It provides a high-level abstraction for building web applications rapidly and efficiently. Django handles many common web development tasks such as URL routing, database management, authentication, and form handling.
+Ex: https://github.com/hemantchaurasia/python-coding-practice/blob/main/Django/README.md
 
 **2. Flask:** Flask is a lightweight web framework that is easy to learn and use. It provides the essentials for web development and allows flexibility in choosing components as needed. Flask is often used for smaller projects or APIs due to its simplicity and minimalistic design.
 
